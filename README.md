@@ -1,2 +1,3 @@
 # Fraud-Prediction
- @model used xgboot classifier
+Data split 70-30.
+Model used xgboot classifier.
