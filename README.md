@@ -1,2 +1,2 @@
 # Fraud-Prediction
- @ model used xgboot classifier
+ @model used xgboot classifier
